@@ -18,3 +18,5 @@ Route::get('/adios', 'AdiosController@index');
 Route::get('/bye', 'ByeController@index');
 
 Route::get('/auRevoir', 'AuRevoirController@index');
+
+Route::get('/ciao', 'CiaoController@index');
